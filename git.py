@@ -27,7 +27,7 @@ heart.end_fill()
 heart.penup()
 heart.goto(-100, -50)
 heart.color("black")
-heart.write(" WE LOVE KASHINATH SIR", font=("Arial", 20, "bold"))
+heart.write(" i love india", font=("Arial", 20, "bold"))
 
 heart.hideturtle()
 
