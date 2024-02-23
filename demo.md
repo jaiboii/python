@@ -1,4 +1,4 @@
 # my first git project
 
-hey guy, i am jay 
+hey guyS, i am jay. 
 
